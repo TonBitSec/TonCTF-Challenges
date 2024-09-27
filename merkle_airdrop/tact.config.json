@@ -1,0 +1,9 @@
+{
+    "projects": [{
+        "name": "MerkleAirdrop",
+        "path": "./sources/MerkleAirdrop.tact",
+        "output": "./sources/output",
+        "options":{
+        }
+    }]
+}
